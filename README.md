@@ -2,7 +2,7 @@
 ## 1849 - Cellphone ecommerce
 
 ### Copyright by IA1304 - FPT University 
-### Lalade | cogn | duongdt | hoangnm | mi van co
+### Laladee | cogn | duongdt | hoangnm | mi van co
 
 *In this project, we have used some photos of thegioididong.com. Because of this is not a commercialization project, please ignore this issue.*
 
