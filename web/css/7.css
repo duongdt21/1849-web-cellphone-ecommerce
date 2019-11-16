@@ -1,0 +1,146 @@
+/* -----------------------------------------
+Gutenberg general style resets
+----------------------------------------- */
+
+.entry-content > [class^="wp-block-"],
+.entry > [class^="wp-block-"],
+.wp-block-column > [class^="wp-block-"] {
+  margin-bottom: 30px;
+}
+
+.entry-content .wp-block-audio {
+  margin-bottom: 1.5em;
+}
+
+.entry-content .wp-block-audio audio {
+  width: 100%;
+  margin: 0;
+}
+
+.entry-content .wp-block-audio figcaption {
+  color: inherit;
+  opacity: .7;
+}
+
+.entry-content .wp-block-video {
+  margin-bottom: 1.5em;
+}
+
+.entry-content .wp-block-video video {
+  width: 100%;
+  margin: 0;
+}
+
+.entry-content .wp-block-video figcaption {
+  color: inherit;
+  opacity: .7;
+}
+
+/* Embed blocks
+=================================== */
+
+.wp-block-embed iframe {
+  margin: 0;
+}
+
+.wp-block-embed figcaption {
+  color: inherit;
+  opacity: .7;
+}
+
+/* Image Block
+=================================== */
+
+.wp-block-image figcaption {
+  color: inherit;
+  opacity: .7;
+}
+
+/* Separator Block
+=================================== */
+
+.wp-block-separator {
+  margin: 30px 0;
+}
+
+/* Latest Comments Block
+=================================== */
+
+.wp-block-latest-comments {
+  padding-left: 0;
+}
+
+.wp-block-latest-comments .wp-block-latest-comments__comment-avatar {
+  padding: 0;
+}
+
+.wp-block-latest-comments .wp-block-latest-comments__comment-date {
+  color: inherit;
+  opacity: .7;
+}
+
+/* Latest Posts Block
+=================================== */
+
+.wp-block-latest-posts {
+  list-style: none;
+  padding: 0;
+}
+
+.wp-block-latest-posts li {
+  margin-bottom: 15px;
+}
+
+.wp-block-latest-posts .wp-block-latest-posts__post-date {
+  color: inherit;
+  opacity: .7;
+}
+
+/* Gallery Block
+=================================== */
+
+.wp-block-gallery li::before {
+  display: none;
+}
+
+.wp-block-gallery li a {
+  border: 0;
+  box-shadow: none;
+}
+
+/* Columns Block
+=================================== */
+
+.wp-block-column :last-child {
+  margin-bottom: 0;
+}
+
+/* Quote Block
+=================================== */
+
+.wp-block-quote.is-large,
+.wp-block-quote.is-style-large {
+  background: none;
+  font-style: normal;
+}
+
+.wp-block-quote.is-large::before,
+.wp-block-quote.is-large::after,
+.wp-block-quote.is-style-large::before,
+.wp-block-quote.is-style-large::after {
+  display: none;
+}
+
+/* Pull Quote Block
+=================================== */
+
+.wp-block-pullquote {
+  padding: 0;
+  font-style: normal;
+}
+
+.wp-block-pullquote blockquote {
+  font-style: normal;
+  padding: 0;
+  border: 0;
+}
