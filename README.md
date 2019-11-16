@@ -4,7 +4,7 @@
 ### Copyright by IA1304 - FPT University 
 ### Lalade | cogn | duongdt | hoangnm | mi van co
 
-*In this project, we have used some photos of thegioididong.com. Since this is not a commercialization project, please ignore this issue.*
+*In this project, we have used some photos of thegioididong.com. Because of this is not a commercialization project, please ignore this issue.*
 
 
 
@@ -52,6 +52,6 @@ List use case for Order manager:
 1. Dinh Tung Duong (DuongDT):  https://www.facebook.com/tduong.dinh21
 2. Nguyen Van Huy (Laladee): https://www.facebook.com/whitehatlaladee
 3. Nguyen Bao Ngoc (cogn):  https://www.facebook.com/cognn
-4. Do Quang Dat (Mi Van Co):  https://www.facebook.com/profile.php?id=100025204871333
+4. Do Quang Dat (Mi Van Co):  https://www.facebook.com/profile.php?id=100025204871333  
 5: Nguyen Minh Hoang (HoangNM): https://www.facebook.com/hoang.nguyenminh.1884787  
 
